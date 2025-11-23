@@ -93,7 +93,7 @@ const Portfolio = () =>
           <div className="projects-grid">
             { portfolioData.projects.map((project) => (
               <div key={ project.id } className="project-card">
-                <img src={ `/Portfolio/${ project.image }` } alt={ project.name } className="project-image" />
+                <img src={`${import.meta.env.BASE_URL}${project.image}`} alt={project.name} className="project-image" />
                 <div className="project-content">
                   <h3 className="project-title">{ project.name }</h3>
                   <p className="project-description">{ project.description }</p>
