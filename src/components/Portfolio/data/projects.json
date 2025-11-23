@@ -1,0 +1,36 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Snap Stream (Reimplementation)",
+      "description": "Redesigned and reimplemented an Instagram clone with a modern React.js frontend and Django REST Framework backend. Includes JWT authentication, user profiles, image posting, and social features.",
+      "tools": ["React.js", "Django REST Framework", "JWT", "PostgreSQL"],
+      "link": "https://github.com/CodingSea/snap-stream-front-end",
+      "image": "snap-stream-login.png"
+    },
+    {
+      "id": 2,
+      "name": "Snap Stream",
+      "description": "Instagram clone featuring sign-up, login/logout functionality, user profiles, image and video posting, and social interactions like liking and commenting.",
+      "tools": ["HTML", "CSS", "Javascript", "React", "MongoDB", "Node.js"],
+      "link": "https://github.com/CodingSea/Snap-Stream",
+      "image": "snap-stream-old.png"
+    },
+    {
+      "id": 3,
+      "name": "Snake Game",
+      "description": "Web-based Snake game with grid-based gameplay. Control a snake to consume fruits and grow longer. Game ends on collision with body, obstacles, or boundaries.",
+      "tools": ["HTML", "CSS", "Javascript", "VS Code", "Git"],
+      "link": "https://github.com/CodingSea/snake-game",
+      "image": "snake-logo.png"
+    },
+    {
+      "id": 4,
+      "name": "Harvest Haven",
+      "description": "Educational agricultural game designed for younger generation in Bahrain and Arab world. Features 3D graphics and teaches sustainable farming techniques.",
+      "tools": ["Unity", "C#", "Visual Studio", "Blender", "Krita"],
+      "link": "https://coding-sea.itch.io/harvest-haven",
+      "image": "Harvest-Haven-Logo.png"
+    }
+  ]
+}
