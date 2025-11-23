@@ -2,7 +2,7 @@
   "name": "portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://codingsea.github.io/Portfolio",
+  "homepage": "https://codingsea.github.io/portfolio",
   "type": "module",
   "scripts": {
     "predeploy": "vite build",
